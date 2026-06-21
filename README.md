@@ -57,8 +57,8 @@ Building real-world AI systems and modern web applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VAIyerAmogha&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAIyerAmogha&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ Building real-world AI systems and modern web applications.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VAIyerAmogha&theme=tokyonight" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ Unified AI-powered agricultural produce quality assessment system using:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=VAIyerAmogha&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
