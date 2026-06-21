@@ -21,8 +21,35 @@ Building real-world AI systems and modern web applications.
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,nextjs,typescript,postgres,docker,linux,git,github,vscode" />
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts" />
+</p>
+
+### Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,supabase,postgres" />
+</p>
+
+### AI / Machine Learning
+<p align="left">
+<img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" />
+</p>
+
+### LLM & AI Engineering
+<p align="left">
+  <img height="48" src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" />
+</p>
+
+### Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash" />
 </p>
 
 ---
