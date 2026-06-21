@@ -85,14 +85,6 @@ Unified AI-powered agricultural produce quality assessment system using:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VAIyerAmogha&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
